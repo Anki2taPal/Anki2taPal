@@ -1,5 +1,5 @@
 
-![logo](https://github.com/AnkitaPal1012/AnkitaPal1012/blob/main/github-header-image.png)
+![logo](https://github.com/Anki2taPal/Anki2taPal/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Ankita Pal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitapal1012&label=Profile%20views&color=0e75b6&style=flat" alt="ankitapal1012" /> </p>
 <img align="right" alt="statistics" width="400" src="https://cdn.dribbble.com/users/962944/screenshots/14138307/media/ca3377660c3d2053c9d91ac175871429.gif">
